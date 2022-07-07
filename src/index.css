@@ -293,3 +293,7 @@ a {
 .navActive {
   color: var(--secondary);
 }
+
+textarea {
+  resize: none;
+}
